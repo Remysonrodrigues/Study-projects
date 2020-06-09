@@ -1,3 +1,9 @@
 module.exports = {
-    authSecret: ''
+    authSecret: '',
+    db: {
+        host: 'localhost',
+        database: '',
+        user:     '',
+        password: ''
+    }
 };
